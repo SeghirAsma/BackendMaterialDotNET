@@ -1,0 +1,26 @@
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Business.deps.json
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Business.dll
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Business.pdb
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Data.dll
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Data.pdb
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.AssemblyInfo.cs
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.csproj.CopyComplete
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.dll
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.pdb
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Business.deps.json
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Business.dll
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Business.pdb
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Data.dll
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\bin\Debug\netcoreapp3.1\stockManagement.Data.pdb
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.AssemblyInfo.cs
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.csproj.CopyComplete
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.dll
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Business\obj\Debug\netcoreapp3.1\stockManagement.Business.pdb

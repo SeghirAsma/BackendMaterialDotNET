@@ -1,0 +1,26 @@
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.deps.json
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.runtimeconfig.json
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.runtimeconfig.dev.json
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.dll
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.pdb
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.AssemblyInfo.cs
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.dll
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.pdb
+C:\Users\MSI\Desktop\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.genruntimeconfig.cache
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.deps.json
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.runtimeconfig.json
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.runtimeconfig.dev.json
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.dll
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\bin\Debug\netcoreapp3.1\stockManagement.Data.pdb
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.AssemblyInfo.cs
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.dll
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.pdb
+C:\Users\MSI\Desktop\fac kraya\stage\GestionDeStock\stockManagement\stockManagement.Data\obj\Debug\netcoreapp3.1\stockManagement.Data.genruntimeconfig.cache
